@@ -15,7 +15,7 @@
 
 ## 🌟 About Us
 
-:contentReference[oaicite:0]{index=0} 是一个面向工程实践与开源协作的校园技术组织。
+JMI-OPENATOM是一个面向工程实践与开源协作的校园技术组织。
 
 我们专注构建：
 
