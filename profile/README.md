@@ -1,6 +1,6 @@
 <!-- OpenAtom Open Source Club GitHub Profile -->
 
-<h1 align="center">🚀 OpenAtom Open Source Club</h1>
+<h1 align="center">🚀 JMI - OPENATOM</h1>
 
 <p align="center">
   <b>开放原子开源社团 · 校园级工程化开源组织</b><br/>
